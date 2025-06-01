@@ -28,10 +28,10 @@ A sleek and modern movie discovery app built using **React 19**, **Javascript**,
 
 ```bash
 public/
-├── ├──screenshot/           # for README.md file
-├── ├──images/               # images (404 page, hero bg...etc)
+├── ├──screenshot/           # For README.md file
+├── ├──images/               # Images (404 page, hero bg...etc)
 src/
-├── assets/                  # static assets(favicon)
+├── assets/                  # Static assets(favicon)
 ├── components/              # Reusable UI components
 │   ├── movie/               # Movie detail subcomponents
 │   ├── pagination/          # Pagination controls
@@ -61,7 +61,7 @@ cd movie-app
 
 ### 2. Setup Environment Variables
 
-- Create a *.env.local* file in the root of the project with the following variables
+- Create a `.env.local` file in the root of the project with the following variables
 - Make sure to replace these with your actual credentials.
 
 ```bash
