@@ -42,10 +42,12 @@ src/
 ├── index.css                # Tailwind base styles
 ```
 
-## 📸 Demo
+## 🌐 Demo
 
-[🚀 Live Demo](https://your-deployment-link.com)
+- Live
+<https://movie-dc.netlify.app/>
 
+- Figma design
 ![App Screenshot](./public/screenshot/movie-app-figma.png)  
 
 ## 🚀 Getting Started
@@ -53,7 +55,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/mohammedalasly/movie-dc.git
 cd movie-app
 ```
 
